@@ -3,3 +3,5 @@
 
 ## 预览地址
 https://jiali0126.github.io/my-study1/index.html
+
+https://jiali0126.github.io/my-study1/list/index.html
