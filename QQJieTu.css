@@ -1,0 +1,92 @@
+body {
+  background-color: #fd74b7;
+  color: #595959;
+  min-width: 1280px;
+}
+.logo {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 75px;
+  padding-bottom: 55px;
+}
+div {
+  display: block;
+}
+.btn-download,
+.btn-appStore {
+  display: inline-block;
+  width: 249px;
+  height: 88px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  margin: 0 32px;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+}
+.btn-appStore {
+  background-image: url(https://jietu.qq.com/images/btn_appStore.png);
+}
+.title {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1050px;
+  overflow: hidden;
+}
+.lists {
+  text-align: center;
+  padding-top: 60px;
+}
+.btn-download {
+  background-image: url(https://jietu.qq.com/images/btn_download.png);
+}
+
+.download {
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 110px;
+}
+.recommend {
+  padding-bottom: 80px;
+}
+.line {
+  height: 15px;
+  border-bottom: 1px solid #fe99ca;
+}
+.title h3 {
+  width: 90px;
+  margin: 0 auto;
+  font-size: 12px;
+  line-height: 30px;
+  color: #fff;
+  font-weight: normal;
+  background-color: #fd74b7;
+  margin-top: -15px;
+}
+.lists a {
+  display: inline-block;
+  width: 105px;
+  height: 60px;
+  margin: 0 10px;
+  opacity: 0.8;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+}
+.lists .phone {
+  background-image: url(https://jietu.qq.com/images/phone.png);
+}
+.lists .pc {
+  background-image: url(https://jietu.qq.com/images/pc.png);
+}
+.lists .mac {
+  background-image: url(https://jietu.qq.com/images/mac.png);
+}
+.lists .ipad {
+  background-image: url(https://jietu.qq.com/images/ipad.png);
+}
